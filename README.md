@@ -7,6 +7,6 @@ Waveforms supported: Sawtooth, Triangle, Squared, Sine
 Frequencies tested: from 2kHz to 4kHz (up to several MHz according to espressif idf guides)
 
 - Next steps:
-  Create more customizable waveforms
-  Create an easier way to setup the signal in DAC
-  Implement freeRTOS tasks
+  - Create more customizable waveforms
+  - Create an easier way to setup the signal in DAC
+  - Implement freeRTOS tasks
